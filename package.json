@@ -1,13 +1,13 @@
 {
-  "name": "test",
+  "name": "app",
   "version": "1.0.0",
-  "description": "Doing first test",
+  "description": "App",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
   },
-  "author": "Vasilije",
+  "author": "Branko",
   "license": "ISC",
   "dependencies": {
     "abi-decoder": "^2.4.0",
