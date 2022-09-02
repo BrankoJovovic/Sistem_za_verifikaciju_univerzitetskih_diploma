@@ -2,7 +2,7 @@
 
 ### Arhitektura sistema
 
-## Instalacija
+### Instalacija
 
 Prilikom preuzimanja projekta, potrebno je da pokrenete sledeće komande zbog instaliranja svih potrebnih paketa:
 
