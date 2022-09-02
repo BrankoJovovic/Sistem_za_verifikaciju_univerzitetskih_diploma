@@ -2,7 +2,7 @@
 
 ### Arhitektura sistema
 
-../main/SystemArchitecture.png
+/../main/SystemArchitecture.png
 
 ### Instalacija
 
