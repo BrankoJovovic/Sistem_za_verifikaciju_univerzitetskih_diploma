@@ -1,6 +1,6 @@
 ## Sistem za verifikaciju univerzitetskih diploma zasnovan na Blockchain tehnologiji
 
-
+### Arhitektura sistema
 
 Prilikom preuzimanja projekta, potrebno je da pokrenete sledeće komande zbog instaliranja svih potrebnih paketa:
 
@@ -44,7 +44,7 @@ CREATE TABLE diplomaVerification (
 	isVerified boolean
 );
 
-Unutar fajla connection.js potrebno je definisati korisničko ime naloga, šifru i port na kojem radi PostgreSql baza podataka.
+Unutar fajla connection.js potrebno je definisati korisničko ime naloga, šifru i port na kojem radi PostgreSQL baza podataka.
 
 const pool = new Pool({
   user: "postgres",
