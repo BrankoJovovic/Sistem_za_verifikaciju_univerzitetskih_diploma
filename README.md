@@ -6,10 +6,7 @@
 
 
 
-
-
 ### Instalacija
-
 Prilikom preuzimanja projekta, potrebno je da pokrenete sledeće komande zbog instaliranja svih potrebnih paketa:
 
 ```
@@ -24,6 +21,7 @@ Schema.js
 gasPrice: 3000000000
 
 Podešavanje PostgreSQL:
+```
 Instalacija PostgreSQL baze se nalazi na linku: https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 Nakon uspješne instalacije baze podataka, potrebno je kreirati sledeće tabele koje ćemo koristiti u projektu:
 
@@ -55,6 +53,7 @@ CREATE TABLE diplomaVerification (
 	isVerified boolean
 );
 
+
 Unutar fajla connection.js potrebno je definisati korisničko ime naloga, šifru i port na kojem radi PostgreSQL baza podataka.
 
 const pool = new Pool({
@@ -64,6 +63,9 @@ const pool = new Pool({
   password: "posgres",
   port: 5432,
 });
+```
 
 Podešavanje Ganache CLI:
+```
 Instalacija Ganache CLI se nalazi na linku: https://trufflesuite.com/ganache/
+```
