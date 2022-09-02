@@ -1,4 +1,4 @@
-Sistem za verifikaciju digitalnih diploma
+#Sistem za verifikaciju univerzitetskih diploma
 
 Prilikom preuzimanja projekta, potrebno je da pokrenete sledeće komande zbog instaliranja svih potrebnih paketa:
 
