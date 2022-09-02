@@ -8,9 +8,12 @@
 
 Prilikom preuzimanja projekta, potrebno je da pokrenete sledeće komande zbog instaliranja svih potrebnih paketa:
 
+```
 npm install
 npm install ganache-cli
 npm install ganache --global
+```
+
 
 Nakon instalacije paketa, potrebno je da unutar javascript fajla Schema.js podesite gasPrice vrijednost:
 Schema.js
