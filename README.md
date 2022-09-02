@@ -1,1 +1,1 @@
-# Sistem_za_verifikaciju_univerzitetskih_diploma
+Sistem za verifikaciju digitalnih diploma
