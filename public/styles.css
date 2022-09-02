@@ -1,0 +1,19 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #e4e4e4;
+}
+p{
+  margin: 0px;
+  padding: 0px;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #f68b20 !important;
+  border-color: #f68b20 !important;
+}
+
+.swal2-container{
+  background-color: #000000a6 !important;
+}
