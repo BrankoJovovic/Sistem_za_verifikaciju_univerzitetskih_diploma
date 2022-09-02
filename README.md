@@ -52,10 +52,11 @@ CREATE TABLE diplomaVerification (
 	hash text,
 	isVerified boolean
 );
+```
 
 
 Unutar fajla connection.js potrebno je definisati korisničko ime naloga, šifru i port na kojem radi PostgreSQL baza podataka.
-
+```
 const pool = new Pool({
   user: "postgres",
   host: "localhost",
