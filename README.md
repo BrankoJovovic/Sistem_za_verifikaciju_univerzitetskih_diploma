@@ -23,7 +23,10 @@ gasPrice: 3000000000
 Podešavanje PostgreSQL:
 ```
 Instalacija PostgreSQL baze se nalazi na linku: https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
-Nakon uspješne instalacije baze podataka, potrebno je kreirati sledeće tabele koje ćemo koristiti u projektu:
+```
+
+Kada je baza podataka uspješno instalirana, neophodno je kreirati i sledeće tabele koje se koriste u projektu:
+```
 
 CREATE TABLE users (
 	id serial PRIMARY KEY,
