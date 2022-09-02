@@ -1,4 +1,4 @@
-# Sistem za verifikaciju univerzitetskih diploma zasnovan na Blockchain tehnologiji
+## Sistem za verifikaciju univerzitetskih diploma zasnovan na Blockchain tehnologiji
 
 
 
