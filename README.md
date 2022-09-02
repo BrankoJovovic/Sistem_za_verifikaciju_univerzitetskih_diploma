@@ -2,7 +2,11 @@
 
 ### Arhitektura sistema
 
-/../main/SystemArchitecture.png
+![This is an image](SystemArchitecture.png)
+
+
+
+
 
 ### Instalacija
 
